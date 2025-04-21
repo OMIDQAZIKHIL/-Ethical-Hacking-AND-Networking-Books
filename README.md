@@ -42,11 +42,14 @@ This repo is perfect for you! ✨
 
 ⚠️ Reminder: These books are for learning only. Please do NOT use them for anything illegal ❌. Be a white-hat hacker 🤍🕵️‍♂️
 
-📬 Contact Me
+## 📬 Contact Me
+
 Need help or want to share feedback?
-📧 Email: omid.qazikhil2020@gmail.com
-🔗 LinkedIn: Omid Qazi Khil
-🐱 GitHub: OMIDQAZIKHIL
+
+- 📧 **Email**: [omid.qazikhil2020@gmail.com](mailto:omid.qazikhil2020@gmail.com)  
+- 🔗 **LinkedIn**: [Omid Qazi Khil](https://www.linkedin.com/in/omid-qazi-khil)  
+- 🐱 **GitHub**: [OMIDQAZIKHIL](https://github.com/OMIDQAZIKHIL)
+
 
 ⭐ Support
 If this repo helped you, give it a ⭐ and share it with your friends! 🙌
